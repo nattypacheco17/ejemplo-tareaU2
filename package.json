@@ -1,0 +1,15 @@
+{
+  "name": "ejemplo-tareau2",
+  "version": "1.0.0",
+  "description": "ejemplo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nataly Pacheco",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-async-errors": "^3.1.1"
+  }
+}
